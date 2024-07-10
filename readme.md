@@ -1,30 +1,20 @@
 Canvas Kaksha
-
 <br/>
 <br/>
-
 Project Demonstration Drive link:-
 <br/>
 https://drive.google.com/file/d/147DfjPtS8-Rww5Jwoy1OQQWdMKspwwnb/view?usp=sharing
-
 <br/>
 <br/>
-
 Introduction:-
-
 <br/>
 <br/>
-
 Canvas Kaksha is an innovative web application that enhances the online teaching and learning experience. Built with React JS, Node JS, Express JS, and Socket.io, it allows teachers to create interactive classrooms where they can draw and write in real time, and students can join these sessions with a unique code.
-
 <br/>
 <br/>
-
 Key Features and Uniqueness:-
-
 <br/>
 <br/>
-
 1. Interactive Whiteboard:
 <br/>
 <br/>
